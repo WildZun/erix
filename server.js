@@ -34,4 +34,4 @@ fs.readdir("./events/", (err, files) => {
   });
 });
 
-bot.login("ODM0MDc0NDczNjkwNTYyNTcw.YH7mYg.SieBTsCuYTn-v2Jj1faqvELIqc4")
+bot.login("ODM0MDc0NDczNjkwNTYyNTcw.YH7mYg.PHYSQEv442tYBQmtQZF742yi3KE")
