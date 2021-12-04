@@ -33,4 +33,4 @@ fs.readdir("./events/", (err, files) => {
     });
   });
 
-bot.login("Nzk2Mzc3MDUzNDU2ODkxOTM0.X_XB7Q.fO5Qfvl1MEI7X2QA60sj3rJ9Z4g")
+bot.login("Nzk2Mzc3MDUzNDU2ODkxOTM0.X_XB7Q.MBQyX6qK0goSNfHaYqBge9XCYNI")

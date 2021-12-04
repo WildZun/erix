@@ -20,7 +20,7 @@ module.exports.run = async (client, message, args, tools) => {
     }
 
     //Si membre premium
-    if(deleteNum > 50) return message.lineReplyNoMention(":x: Tu ne peux pas supprimer plus de 100 messages !")
+    if(deleteNum > 50) return message.lineReplyNoMention(":x: Tu ne peux pas supprimer plus de 50 messages !")
         message.channel.bulkDelete(deleteNum)
         message.channel.send(deleteNum + " messages supprimés !")
 }
