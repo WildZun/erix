@@ -3,7 +3,8 @@ const Discord = require("discord.js");
 const db = require("quick.db")
 
 const wildzun = [
-    "383668570170720256"
+    "ID OF ADMIN 1",
+    "ID OF ADMIN 2"
 ]
 
 module.exports.run = async (client, message, args, tools) => {
